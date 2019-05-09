@@ -1,0 +1,90 @@
+header {
+  width: 16rem;
+  height: 2.22222222rem;
+  background-color: #387AD4;
+  line-height: 2.22222222rem;
+  text-align: center;
+  font-size: 0.74074074rem;
+  color: white;
+}
+.content {
+  width: 16rem;
+}
+.content .foodList {
+  width: 16rem;
+  height: 8.2962963rem;
+  padding: 0.2962963rem;
+  box-sizing: border-box;
+}
+.content .foodList .item {
+  width: 3.85185185rem;
+  height: 3.85185185rem;
+  float: left;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 0.2962963rem;
+}
+.content .foodList .item img {
+  width: 2.22222222rem;
+  height: 2.22222222rem;
+}
+.content .foodList .item div {
+  font-size: 0.2962963rem;
+  margin-top: 0.14814815rem;
+}
+.content .merchant {
+  height: 1.18518519rem;
+  width: 16rem;
+  background-color: #C3E2EE;
+  box-sizing: border-box;
+  padding-top: 0.2962963rem;
+}
+.content .merchant img {
+  height: 0.74074074rem;
+  width: 0.74074074rem;
+  margin: -0.07407407rem 0.14814815rem 0 0.44444444rem;
+  float: left;
+}
+.content .merchant span {
+  font-size: 0.44444444rem;
+  float: left;
+  color: #323030;
+}
+.content .merchantItem {
+  width: 16rem;
+  height: 5.18518519rem;
+  padding: 0.44444444rem;
+  box-sizing: border-box;
+}
+.content .merchantItem .foodImg {
+  width: 3.7037037rem;
+  height: 3.7037037rem;
+  float: left;
+  margin-right: 0.44444444rem;
+}
+.content .merchantItem .wrap1 {
+  float: left;
+}
+.content .merchantItem .wrap1 .info {
+  margin-top: 0.44444444rem;
+  font-size: 0.74074074rem;
+}
+.content .merchantItem .wrap1 .info2 {
+  clear: both;
+  margin-top: 0.14814815rem;
+}
+.content .merchantItem .wrap1 .info2 img {
+  width: 0.53333333rem;
+  height: 0.53333333rem;
+  margin-right: -0.2962963rem;
+}
+.content .merchantItem .wrap1 .info3 {
+  font-size: 0.74074074rem;
+  margin-top: 0.44444444rem;
+}
+.content .merchantItem .wrap2 {
+  float: right;
+  font-size: 0.74074074rem;
+  line-height: 4rem;
+  padding-right: 0.74074074rem;
+}
